@@ -18,7 +18,7 @@
         for (i = 0; i < sURLVariables.length; i++) {
             sParameterName = sURLVariables[i].split('='); //to split the key from the value.
 
-            if (sParameterName[0] === 'urlVar1') { //lets say you are looking for param name - firstName
+            if (sParameterName[0] === 'urlVar1') { //this is the name of var passed on URL: http://***.com/site/?urlVar1=123&urlVar2=345
                 sParameterName[1] === undefined ? 'Not found' : sParameterName[1];
             }
         }
