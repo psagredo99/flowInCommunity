@@ -1,4 +1,4 @@
-# TestVisualizar Lightning Component
+# Lightning Component (Aura) to display flow with URL parameters
 
 ## Description
 
