@@ -1,5 +1,12 @@
 # Lightning Component (Aura) to display flow with URL parameters
 
+By: Pablo Sagredo
+
+<a href="https://githubsfdeploy.herokuapp.com?owner=psagredo99&repo=flowInCommunity&ref=main">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
 ## Description
 
 This Salesforce Lightning Component is designed to initialize and call a Flow using URL parameters. The component extracts URL parameters, retrieves specific values, and passes them to a Flow using the Lightning Component framework. It is designed to be used in a Salesforce Lightning environment and can be added to various page types, including record pages and community pages.
